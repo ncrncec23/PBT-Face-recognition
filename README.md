@@ -1,4 +1,4 @@
-# Aplikacija za prepoznavanje lica u realnom vremenu korištenjem dubokog učenja
+# Prepoznavanje lica u realnom vremenu korištenjem dubokog učenja
 
 ## Projektni tim
 
