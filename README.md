@@ -2,6 +2,8 @@
 
 ![FaceID](https://github.com/user-attachments/assets/d42f6544-134f-4603-824c-b2580bfe81b4)
 
+Aplikacija i svi potrebni podatci su unutar mape app. Ostale datoteke doprinjele su izgradnji deep learning modela i organiziranju GitHub repozitorija. 
+
 ## Projektni tim
 
 | Ime i prezime | E-mail adresa (FOI)       | JMBAG      | Github korisničko ime |
