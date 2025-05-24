@@ -16,5 +16,8 @@ Prepoznavanje lica u stvarnom vremenu uključuje prepoznavanje lica u videu ili 
 Aplikacija je napisana u programskom jeziku Python.
 
 ## Literatura
-#### Aplikacija je napravljena prema uzoru na ovaj [video](https://www.youtube.com/watch?v=bK_k7eebGgc&list=PLgNJO2hghbmhHuhURAGbe6KWpiYZt0AMH) koji je in-depth tutorial o dubokom učenju, računalnom vidu, kreiranju Siamese modela i detekciji osobe u realnom vremenu korištenjem OpenCV.
-#### Osim videa korišteno je i istraživanje o one-shot siamese neuronskim mrežama [Siamise_Neural_Networks.pdf](https://github.com/user-attachments/files/20419437/Siamise_Neural_Networks.pdf)
+<ul>
+  <li>Aplikacija je napravljena prema uzoru na ovaj video https://www.youtube.com/watch?v=bK_k7eebGgc&list=PLgNJO2hghbmhHuhURAGbe6KWpiYZt0AMH koji je in-depth tutorial o dubokom učenju, računalnom vidu, kreiranju Siamese modela i detekciji osobe u realnom vremenu korištenjem OpenCV.</li>
+  <li>Osim videa korišteno je i istraživanje o one-shot siamese neuronskim mrežama https://github.com/user-attachments/files/20419437/Siamise_Neural_Networks.pdf</li>
+</ul>
+
