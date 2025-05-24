@@ -1,5 +1,7 @@
 # Aplikacija za prepoznavanje lica u realnom vremenu korištenjem dubokog učenja
 
+![FaceID](https://github.com/user-attachments/assets/d42f6544-134f-4603-824c-b2580bfe81b4)
+
 ## Projektni tim
 
 | Ime i prezime | E-mail adresa (FOI)       | JMBAG      | Github korisničko ime |
