@@ -48,6 +48,8 @@ Razviti sustav za prepoznavanje lica u stvarnom vremenu koristeći tehnike dubok
 
 Aplikacija je razvijena u programskom jeziku Python. Trenirani model dostupan je putem priloženog [linka](https://drive.google.com/drive/folders/1e0pLrdvceyLpMGCxLUkESA8ydUk5sDhB?usp=sharing). Zbog ograničenja lokalnog okruženja, model je treniran u Google Colab okruženju, a uz projekt je na GitHub repozitorij dodana i pripadajuća .ipynb datoteka. Tijekom izrade projekta koristili smo TensorFlow za izgradnju i treniranje modela, OpenCV za obradu videa, te Kivy UI Framework za razvoj korisničkog sučelja. Model je treniran na široko korištenom datasetu za prepoznavanje lica pod nazivom Labelled Faces in the Wild (LFW), koji je standard u ovom području primjene.
 
+## Dokumentacija
+
 ## Literatura
 
 1. _Aplikacija je napravljena prema uzoru na ovaj [video](https://www.youtube.com/watch?v=bK_k7eebGgc&list=PLgNJO2hghbmhHuhURAGbe6KWpiYZt0AMH) koji je in-depth tutorial o dubokom učenju, računalnom vidu, kreiranju Siamese modela i detekciji osobe u realnom vremenu korištenjem OpenCV._
